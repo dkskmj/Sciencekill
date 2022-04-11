@@ -1,0 +1,3 @@
+这个文件夹里所有程序由Python3编写，请使用正确编译器打开。
+All programs in this folder are written by Python3 and should be opened with the correct compiler.
+Все программы в этой папке написаны Python3 и должны быть открыты с помощью правильного компилятора.
